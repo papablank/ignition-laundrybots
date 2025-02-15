@@ -1,4 +1,4 @@
-# Automated Clothing Wash & Dry Cell
+# Automated Laundry Cell
 
 This repository contains the concept and simulation for an automated assembly line where a cell of robots wash and dry clothing. The robots are controlled by an Allen Bradley PLC, while human operators interact with the system through HMI screens developed using Ignition by Inductive Automation. Custom Python scripts are used to extend and integrate functions between the PLC and HMI.
 
